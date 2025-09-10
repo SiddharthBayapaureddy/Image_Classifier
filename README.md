@@ -36,3 +36,8 @@
 
 ## Demo 
 ![Molte Chatbot Screenshot](molte/demo/image.png)
+
+
+# Task-2 Image Classifier
+
+## Project Link: https://colab.research.google.com/drive/1rVaipPesBvBpJXONz-8UzEoVAJ5i4DSB?usp=sharing
