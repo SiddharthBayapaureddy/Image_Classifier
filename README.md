@@ -1,8 +1,10 @@
 # Task-1  Molte (Chatbot)
 
+## Check out the hosted bot --> https://molte-bot.streamlit.app/
+
 **molte  - feminine plural form of the Italian word molto, which means "many" or "a great number"** 
 
-### A multi-persona chabot built using **LangChain** (providing the necessary framework for Chat history and persistence) and **Groq** (That provided the LLM model, and computing power to run in its servers). The specific LLM model used for this application is "llama-3.1-8b-instant", which is the lighter and faster version of its variants. Streamlit library is used to build a minimal frontend UI in a chatbot style for interacting with the bot. 
+### A multi-persona chatbot built using **LangChain** (providing the necessary framework for Chat history and persistence) and **Groq** (That provided the LLM model, and computing power to run in its servers). The specific LLM model used for this application is "llama-3.1-8b-instant", which is the lighter and faster version of its variants. Streamlit library is used to build a minimal frontend UI in a chatbot style for interacting with the bot. 
 
 ## Features:
 - Conversation History tracking, to provide a streamline experience without having to rerun the program, and access the benefits of the model to track previous messages. 
